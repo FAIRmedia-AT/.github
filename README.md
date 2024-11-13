@@ -7,3 +7,5 @@ More info on the [project website](https://www.joanneum.at/digital/en/projects/f
 ## Acknowledgement
 
 FAIRmedia receives funding from the Austrian Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology.
+
+![FFG Logo](ffg_logo.png)
